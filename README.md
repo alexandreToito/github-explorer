@@ -2,6 +2,8 @@
 
 This project was not bootstrapped with Create React App, but was configured from scratch as if it was. 
 
+It's goal, in addition to the above, was to test the Github api.
+
 ## Available Scripts
 
 In the project directory, you can run:
